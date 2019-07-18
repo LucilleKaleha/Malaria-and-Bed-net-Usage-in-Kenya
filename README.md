@@ -6,7 +6,7 @@ Colab Python3 Notebook programming, {April, 2019}
 
 Authors: https://github.com/PeterGakuru, https://github.com/LucilleKaleha, https://github.com/EarvinBaraka, https://github.com/RobertMutugi
 
-## Research Question:
+### Research Question:
 Is there a correlation between health spending on Malaria, usage of insecticide treated bednets and reported presentation of malaria symtomps cases in the different counties in Kenya?
 
 Setup/Installation Requirements
